@@ -1,0 +1,17 @@
+# Created by https://www.gitignore.io/api/java,maven,eclipse
+# Edit at https://www.gitignore.io/?templates=java,maven,eclipse
+
+### CVCRobot ###
+*.png
+*.html
+*.xlsx
+
+### Cucumber ###
+parallel/
+target/
+reports/
+
+#InteliJ
+/.idea/
+.idea/
+*.iml
